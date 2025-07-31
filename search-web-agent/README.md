@@ -1,4 +1,4 @@
-# Pydantic AI Web Search Agent
+# Web Search Agent Pydantic AI
 
 This repository contains a Python script (`web_search_agent.py`) that leverages large language models (LLMs) and web search capabilities to answer user questions. It uses `search-web-agent` for agent functionality and integrates with Ollama for local LLM inference and Brave Search API for web queries.
 
